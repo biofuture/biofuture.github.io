@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 permalink: /blog/:year/:month/:title.html 
 include: ['.htaccess']
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", "CNAME", "Gemfile", "Gemfile.lock"]
@@ -8,7 +7,7 @@ url:
 cdn_url: 7u2t01.com1.z0.glb.clouddn.com
 lsi: false
 safe: true
-timezone: Asia/Beijing
+timezone: Asia/Shanghai
 auto: false 
 
 paginate: 8
@@ -25,17 +24,14 @@ JB :
   IMAGE_PATH : http://coolshell.info/images
 
 # presonal config
-domain: https://biofuture.github.io/
-title: JIMMY
+domain: http://coolshell.info
+title: Lippi-???
 description: Draw my life with code
-author: Jimmy-JIANG
-email: biofuture.jiang@gmail.com
-github: biofuture
+author: Lippi.OuYang
+email: ouyanglip@gmail.com
+github: LippiOuYang
 
 config:
   js_dir:
   img_dir:
   css_dir:
-=======
-theme: jekyll-theme-architect
->>>>>>> 
