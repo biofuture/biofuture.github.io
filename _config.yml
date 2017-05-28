@@ -25,7 +25,7 @@ JB :
   IMAGE_PATH : http://coolshell.info/images
 
 # presonal config
-domain: http://coolshell.info
+domain: https://biofuture.github.io/
 title: JIMMY
 description: Draw my life with code
 author: Jimmy-JIANG
@@ -38,4 +38,4 @@ config:
   css_dir:
 =======
 theme: jekyll-theme-architect
->>>>>>> 962a62c971b1918bb98a76cd42b73f022e9d828e
+>>>>>>> 
